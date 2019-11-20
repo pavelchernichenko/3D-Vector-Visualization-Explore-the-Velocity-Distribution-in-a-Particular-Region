@@ -1,0 +1,3 @@
+C:/Users/pchernichenko/Desktop/CarotidFlow/Build/CMakeFiles/CarotidFlow.dir
+C:/Users/pchernichenko/Desktop/CarotidFlow/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pchernichenko/Desktop/CarotidFlow/Build/CMakeFiles/ZERO_CHECK.dir
